@@ -1,0 +1,12 @@
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/hamzasalahuddin/Documents/C_Sharp_1/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
